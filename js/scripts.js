@@ -9,4 +9,15 @@ $(function() {
     $(".badboy").toggle();
   });
 
+
+
+
+  var convert = function(galls) {
+  return galls * 3.785411784;
+};
+
+document.getElementById("buttonGals").addEventListener("click", function alert(convert(galls)));
+
+
+
 });
