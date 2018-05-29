@@ -1,0 +1,9 @@
+.badboy {
+  display: none;
+}
+
+#clickable:hover {
+  cursor: pointer;
+  font-style: italic;
+  color: blue;
+}
