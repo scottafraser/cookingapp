@@ -7,3 +7,8 @@
   font-style: italic;
   color: blue;
 }
+
+.darktheme {
+  background-color: black;
+  color: white;
+}
